@@ -69,3 +69,13 @@ size_t find (char c, size_t pos = 0) const noexcept; //character (4)
 
 **find_last_not_of**
 
+
+
+## 4. 字符串按照长度排序
+
+```C++
+sort(words.begin(), words.end(), [&](const string & a, const string & b){
+            return a.size() < b.size(); 
+});
+```
+

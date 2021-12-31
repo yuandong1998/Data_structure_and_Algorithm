@@ -5,8 +5,8 @@
 - 数据结构
 - 算法导论（书）
 - 算法导论（MIT课程）
-- 刷题笔记
-- C++笔记
+- [刷题笔记](./Leetcode_note_book/readme.md)
+- [C++笔记](CPlus_note)
 
 
 
