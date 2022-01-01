@@ -15,6 +15,7 @@
 - [ ] leetcode的剑指offer学习计划
 - [ ] leetcode的算法学习计划
 - [ ] leetcode的每日一题
+- [ ] leetcode中的程序员面试金典
 - [ ] leetcode的每周竞赛尽量都参加
 
 
@@ -24,3 +25,5 @@
 2021/12/27：参加[第 68 场双周赛](https://leetcode-cn.com/contest/biweekly-contest-68/)写出两道题
 
 2021/12/28：参加[第 273 场周赛](https://leetcode-cn.com/contest/weekly-contest-273/)写出一道题（太菜了）
+
+2022/01/01：Leetcode《算法学习计划：初级》完成

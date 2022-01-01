@@ -15,8 +15,7 @@
 - [ ] 括号问题
 - [ ] KMP算法
 - [ ] 字典树的总结
-- [ ] leetcode中的算法学习计划
-- [ ] leetcode的剑指offer学习计划
+- [ ] DFS和BFS
 
 
 
@@ -157,6 +156,7 @@
 * [被围绕的区域](./notebook/被围绕的区域.md) 2020/8/20
 * [Route Between Nodes LCCI](./notebook/Route_Between_Nodes.md) 2021/2/3
 * [Paths with Sum LCCI](./notebook/Paths_with_Sum.md) 2021/2/6
+* [★★ 01矩阵 ](./notebook/01矩阵.md) （BFS,先将所有的0都加入队列中，然后开始BFS进行搜索）
 
 
 
@@ -210,6 +210,8 @@
 * [★★ 判断一个括号字符串是否有效](./notebook/判断一个括号字符串是否有效.md) （Leetcode周赛题目，从左向右遍历找不可修改的右括号数量是否一直大于左括号加可修改的右括号的数量，同理从右向左遍历）
 * [★统计特殊四元组](./notebook/统计特殊四元组.md) （用哈希记录`nums[d]-nums[c]`的值的次数，`b`从右向左遍历，每次更新哈希表，然后遍历`a`）
 * [★★一手顺子](./notebook/一手顺子.md) （用`unordered_map num2count`记录每个数字的次数，用`priority_queue`构建一个优先队列每次找最小的牌）
+* [★位1的个数](./notebook/位1的个数.md) （`n&(n-1)`可以将最低位的1变为0）
+* 
 
 
 
