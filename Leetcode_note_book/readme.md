@@ -157,6 +157,7 @@
 * [Route Between Nodes LCCI](./notebook/Route_Between_Nodes.md) 2021/2/3
 * [Paths with Sum LCCI](./notebook/Paths_with_Sum.md) 2021/2/6
 * [★★ 01矩阵 ](./notebook/01矩阵.md) （BFS,先将所有的0都加入队列中，然后开始BFS进行搜索）
+* [★★★参加会议的最多员工数](./notebook/参加会议的最多员工数.md) （采用两种dfs计算，最后取最大）
 
 
 
