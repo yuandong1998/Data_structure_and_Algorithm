@@ -123,6 +123,8 @@
 
 * [恢复空格](./notebook/恢复空格.md) 2021/4/13
 
+* [★★★ 猫和老鼠](./notebook/猫和老鼠.md)
+
   
 
 
@@ -170,7 +172,7 @@
 * [Iterator_for_Combination](./notebook/Iterator_for_Combination.md)
 * [Split Array into Fibonacci Sequence](./notebook/Split_Array_into_Fibonacci_Sequence.md)
 * [给表达式添加运算符](./notebook/给表达式添加运算符.md) 2021/1/25
-* [BST Sequences LCCI](./notebook/BST_Sequences.md) 2021/2/3
+* [★★★二叉搜索树序列](./notebook/二叉搜索树序列.md) （采用回溯算法与双向队列`dq`（deque），双向队列维护一个选择列表。每次确定`dq`的size大小再遍历选择。）
 
 
 
