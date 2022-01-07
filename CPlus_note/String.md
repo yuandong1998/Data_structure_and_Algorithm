@@ -79,3 +79,25 @@ sort(words.begin(), words.end(), [&](const string & a, const string & b){
 });
 ```
 
+
+
+## 5. 字符串split
+
+```C++
+auto split = [](const string& s, char delim) -> vector<string> {
+    vector<string> ans;
+    string cur;
+    for (char ch: s) {
+        if (ch == delim) {
+            ans.push_back(move(cur));
+            cur.clear();
+        }
+        else {
+            cur += ch;
+        }
+    }
+    ans.push_back(move(cur));
+    return ans;
+};
+```
+
