@@ -1,3 +1,5 @@
+
+
 # CPlus note
 
 
@@ -9,3 +11,4 @@
 - [ ] memset
 - [ ] const 和static
 - [ ] move
+- [ ] uint32_t
